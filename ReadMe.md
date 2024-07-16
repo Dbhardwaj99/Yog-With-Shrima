@@ -4,7 +4,7 @@ This is a simple website for my mom's yoga classes.
 
 ## Preview
 
-![Yog With Shrima](images/yoga_with_shrima.jpeg)
+![Yog With Shrima](images/Yoga_With_Shrima.jpeg)
 
 ## Technologies Used
 
