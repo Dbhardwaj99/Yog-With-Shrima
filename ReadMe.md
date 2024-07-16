@@ -2,6 +2,8 @@
 
 This is a simple website for my mom's yoga classes.
 
+## Deployed Link : https://dbhardwaj99.github.io/Yog-With-Shrima/
+
 ## Preview
 
 ![Yog With Shrima](images/Yoga_With_Shrima.jpeg)
